@@ -1,4 +1,4 @@
-Olá, seja bem-vidos(a) !
+Olá, seja bem-vindos(a) !
 
 <div align="center">
   <a href="https://github.com/PauloVitorrr">
